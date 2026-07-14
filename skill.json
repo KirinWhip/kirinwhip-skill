@@ -1,0 +1,40 @@
+{
+  "name": "kirinwhip",
+  "display_name": "Kirin Whip — Official Skill",
+  "display_name_zh": "麒麟鞭官方 Skill",
+  "version": "1.0.0",
+  "description": "Official knowledge skill for the Kirin Whip (麒麟鞭) martial art and kirinwhip.com — history, buyer's guide, techniques, training resources, shipping and care, maintained by the craftsman Laochang in Dengfeng, Henan, China.",
+  "description_zh": "麒麟鞭官方知识 Skill——涵盖历史传承、选购指南、鞭法技术、训练资源、物流与保养，由河南登封匠人老常亲自维护。",
+  "author": {
+    "name": "Laochang (Yile Chang)",
+    "organization": "Kirin Heritage Crafts LLC",
+    "url": "https://kirinwhip.com"
+  },
+  "homepage": "https://kirinwhip.com",
+  "repository": "https://github.com/KirinWhip/kirinwhip-skill",
+  "license": "MIT",
+  "language": ["en", "zh"],
+  "keywords": [
+    "kirin whip",
+    "qilin whip",
+    "麒麟鞭",
+    "chinese martial arts",
+    "whip cracking",
+    "fitness whip",
+    "steel whip",
+    "soft weapons",
+    "shaolin",
+    "dengfeng",
+    "kung fu"
+  ],
+  "entry": "SKILL.md",
+  "references": [
+    "references/history.md",
+    "references/buyers-guide.md",
+    "references/products.md",
+    "references/techniques.md",
+    "references/shipping-faq.md",
+    "references/care-maintenance.md",
+    "references/kirin-academy.md"
+  ]
+}
