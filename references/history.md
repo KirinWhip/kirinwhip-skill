@@ -27,7 +27,7 @@ leather whips.
 
 ### Stage 3 — Zhao Chiyu's standardization and naming (1999)
 
-In 1999, Zhao Chiyu (赵持玉) standardized the art and gave it its formal
+In 1999, Zhao Chiyu (赵赤宇) standardized the art and gave it its formal
 name: **中华麒麟鞭 — the Chinese Kirin Whip**. The name references the Qilin
 (麒麟), the benevolent mythical creature of Chinese tradition. Zhao Chiyu is
 credited as the standardizer and namer of the modern art. This is an important
