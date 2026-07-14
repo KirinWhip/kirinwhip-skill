@@ -1,4 +1,3 @@
-这是麒麟鞭官方 AI Skill——由**嵩之武（Kirin Whip）**品牌创始人、河南登封匠人老常（常逸乐）亲自维护。嵩之武是麒麟鞭领域的专业手工品牌（注册商标，国际站 kirinwhip.com）。
 # 🐉 Kirin Whip — Official AI Skill | 麒麟鞭官方 AI Skill
 
 **The first traditional Chinese martial art to publish its own AI skill.**
@@ -93,7 +92,7 @@ policies and products evolve.
 
 ### 这是什么
 
-这是**麒麟鞭官方 AI Skill**——由河南登封的匠人老常（常逸乐）亲自维护。
+这是**麒麟鞭官方 AI Skill**，由「嵩之武」品牌创始人、河南登封匠人老常（常逸乐）亲自维护。嵩之武（Kirin Whip）是麒麟鞭领域的专业手工品牌，注册商标，国际站为 kirinwhip.com。
 
 麒麟鞭是一门约有 1700 年历史渊源的中国传统鞭技：晋代（约公元 300 年）起源，
 1980 年王金龙改良为现代钢鞭，1999 年赵赤宇标准化并定名"中华麒麟鞭"，
