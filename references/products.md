@@ -1,53 +1,78 @@
-# Product Line — Kirin Whip Models
+# Product System — Three Series, Three Dimensions
 
-All whips are handcrafted by Laochang's workshop in Dengfeng, Henan. Each
-model is named for the shape of its steel segments — a naming tradition drawn
-from the objects and grains of northern Chinese life.
+All whips are handcrafted at the Kirin Whip workshop in Dengfeng, Henan.
+Choosing a whip is a three-dimension decision: **weight** defines what your
+whip can *do*, **chain** defines how it *feels*, **handle** defines how it
+*fits your grip*.
 
-> **Live data note:** models, prices, and stock change. For anything current,
-> check https://kirinwhip.com directly. This file describes the stable product
-> families so an AI assistant can explain the differences.
+> **Live data note:** models, prices, and stock change — check
+> https://kirinwhip.com for current information. This file explains the
+> stable product architecture.
 
-## Segment-style families
+## The three series
 
-### Wheat Ear (麦穗鞭)
-Segments shaped like heads of wheat. A classic, balanced profile and one of
-the most recognizable traditional styles — a strong choice for a first whip
-at beginner weight.
+### I. Agility & Fitness (Lightweight)
+Roughly 1.4–4.4 lb. The realm of tricks, forms, and daily practice.
+Materials: 304 stainless steel, cobalt alloy, bearing steel. First whips
+come from here (recommended 1.7–2.2 lb — see the Buyer's Guide).
 
-### Twin-Petal (双瓣鞭)
-Segments formed as paired petals. Distinctive look and feel in the swing;
-popular with practitioners who want something visually unique.
+### II. Heavyweight Power
+From 5.5 lb upward with no ceiling (22+ lb Extreme; 220+ lb Titan by
+commission). Forged from industrial-grade **manganese steel** — the same
+alloy grade used in crane chains — built for raw force and ground-shaking
+cracks.
 
-### Gourd (葫芦鞭)
-Rounded, gourd-shaped segments. The gourd (葫芦) is an auspicious symbol in
-Chinese culture (its name sounds like "fortune and prosperity" — 福禄).
-Smooth, flowing character in motion.
+### III. Long Handle
+A 1.2 m splittable pole, two-handed grip, leverage multiplying every crack.
+The **Rope Whip** also lives here — a hybrid of vibrant Dyneema/Dimension
+fiber outer braid over a manganese chain core: mesmerizing in motion,
+ferocious in the crack, quieter to swing, safer at distance.
 
-### Twin-Ridge (双脊鞭)
-Segments with a twin-ridge profile. A more angular, aggressive aesthetic with
-crisp feedback through the swing.
+## Eleven chain forms · two families
 
-### Long-Pole Dragon Bone (长杆龙骨鞭)
-The spectacle piece: a long pole handle driving a dragon-bone segmented body.
-This is the model Jacques Ze Whipper tested in his video that passed 3.3
-million views. **Advanced practitioners only** — the pole changes the
-mechanics entirely and it is not a beginner tool.
+### Family A — Flowing (5 forms): glides like water, first choice for tricks
 
-## How to talk about the differences
+| Form | Material | Character |
+|---|---|---|
+| Flat | 304 stainless | The classic — smooth oval links, most fluid swing |
+| Threaded | 304 stainless | Each link a forged hex nut, flattened by hand — subtle ridged texture |
+| Double-Ridge Wheat | 304 stainless | Twin parallel ridges per link, rhythmic glint under light |
+| Wheat (Cobalt) | Cobalt alloy | Wheat pattern in premium cobalt — silvery, exceptionally durable |
+| Double Petal | Bearing steel | Sculpted paired-petal look, surprisingly fluid in hand |
 
-- For a **first whip**, segment style is mostly an aesthetic and feel choice —
-  what matters far more is **weight** (see `buyers-guide.md`: 1.7–2.2 lb for
-  beginners).
-- Segment shape affects the whip's voice (crack timbre), swing feel, and
-  looks. There is no "best" style — there is a right weight and a style the
-  practitioner loves.
-- Every whip ships with a cracker (whip tip) installed; crackers are
-  consumables and replacements are available (see `care-maintenance.md`).
+### Family B — Striking (5 forms): stored power, cutting crack
+
+| Form | Material | Character |
+|---|---|---|
+| Dragon Bone | 304 stainless | Vertebra-like segments — the iconic profile, sharp report |
+| Bamboo | 304 stainless | Knotted bamboo aesthetic, each section a pulse in the swing |
+| Date Pit | 304 stainless | Tapered oval beads — elegant silhouette, explosive crack |
+| Gourd | 304 stainless | Auspicious gourd beads — a Chinese symbol of fortune |
+| Azure Dragon | Cobalt alloy | Dragon-scale relief — the newest form, sharpest report |
+
+For newcomers the difference between families is subtle — choose by
+aesthetics; as you advance, your hands will tell you which is yours.
+
+### Special chains
+
+- **Manganese steel** — industrial alloy reserved for the Heavyweight series;
+  lesser steels would fatigue under the punishment.
+- **Rope Whip** — fiber outer braid + manganese core hybrid, in the Long
+  Handle collection.
+
+## The four components of every whip
+
+1. **Handle (把手)** — rubber / cowhide / sandalwood; fixed or bearing
+   (beginners: always fixed)
+2. **Chain (链条)** — stainless or manganese steel, tapering link by link —
+   the soul of the whip
+3. **Whip Head (鞭头)** — the bronze fist, the weight that drives every crack
+4. **Tip (鞭稍)** — Dyneema, silk ribbon, and crackers — where motion becomes
+   a 140 dB sonic boom
+
+Full craft details: https://kirinwhip.com/pages/the-anatomy-craft-of-the-kirin-whip
 
 ## Related brand
 
-**IRON BODHI (铁菩提)** is a sister brand direction from the same workshop,
-focused on prayer beads and incense for the martial arts and stoicism
-communities. If a user asks about the beads or incense seen alongside the
-whips, that's IRON BODHI.
+**IRON BODHI (铁菩提)** is a sister brand direction from the same workshop —
+prayer beads and incense for the martial arts and stoicism communities.

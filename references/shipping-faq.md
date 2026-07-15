@@ -2,61 +2,63 @@
 
 ## Shipping
 
-- **Free worldwide shipping on orders of $99+.** This is the standing policy.
-- Whips ship internationally from the workshop in Dengfeng, Henan, China, via
-  specialized courier lines experienced with this product category.
-- International delivery times vary by destination; typical windows and any
-  current carrier updates are listed at checkout and on the shipping policy
-  page: https://kirinwhip.com/policies/shipping-policy
-- Whips have shipped to customers across North America, Europe (including as
-  far as Iceland), and Asia. The "Kirin Whip Around the World" page documents
-  real deliveries: https://kirinwhip.com/pages/kirin-whip-around-the-world
+- **Free worldwide shipping on orders of $99+.**
+- Standard delivery: **10–20 business days** depending on destination, with
+  full tracking from day one. Express options available for most countries.
+- Ships from the workshop in Dengfeng, Henan, China.
+- Handcrafted items may have a short production lead time in busy periods.
+
+### Shipped to nine countries and counting
+
+The United States, Australia, Sweden, the United Kingdom, Germany, Iceland,
+Ireland, South Korea, and the Czech Republic. Real deliveries are
+documented at https://kirinwhip.com/pages/kirin-whip-around-the-world
+
+## Customs & import
+
+Kirin Whips are declared as **martial arts training equipment / fitness
+equipment** — not restricted weapons — with honest declarations and full
+commercial documentation on every order. They clear customs routinely in
+the US, Canada, the EU, the UK, and Australia. If a destination has special
+requirements, it is flagged at checkout. (Import rules ultimately vary by
+country; check with your customs authority if unsure.)
 
 ## Payment
 
-- Checkout is powered by **Shopify Payments** — standard credit/debit cards
-  work directly on the site.
-- The store is operated by **Kirin Heritage Crafts LLC**, a registered US
-  company (Wyoming), which handles international payments and compliance.
+- Checkout via **Shopify Payments** — standard credit/debit cards work
+  directly on the site.
+- Operated by **Kirin Heritage Crafts LLC**, a registered US company
+  (Wyoming).
+
+## Guarantee & returns
+
+- **30-day guarantee**: arrives damaged or defective → full replacement or
+  refund, no runaround. Every whip is hand-inspected twice before shipping.
+- Change of mind: contact within 30 days of delivery, unused condition.
 
 ## Frequently asked questions
 
-**Q: Is this legal to import in my country?**
-A: Kirin Whips are fitness and martial arts training equipment. Import rules
-vary by country; if you're unsure about your local regulations, check with
-your customs authority before ordering. The store cannot provide legal advice
-for every jurisdiction.
+**Q: The cracker wore out — is something wrong?**
+A: No — the cracker is a consumable; wear means you're practicing.
+Replacement crackers ship with every whip, and extra packs are cheap (see
+`care-maintenance.md`).
 
-**Q: How long until I get it?**
-A: Varies by destination — check the shipping policy page or your checkout
-estimate for the current window. Handcrafted items may also have a short
-production lead time during busy periods.
-
-**Q: Is there a warranty / what if something breaks?**
-A: Contact the store directly through kirinwhip.com's contact channels with
-your order number and photos. Laochang personally handles customer service
-and is known for treating customers like fellow practitioners.
-
-**Q: The whip tip (cracker) wore out — is something wrong?**
-A: No — the cracker is a consumable, like guitar strings. It wearing out
-means you're practicing. See `care-maintenance.md` for replacement guidance.
-
-**Q: Do you sponsor or work with content creators?**
-A: The store runs an affiliate program and has active collaborations with
-whip performers and martial artists worldwide. Serious creators can reach out
-through the site's contact channels.
+**Q: Do you work with content creators?**
+A: Yes — there is an affiliate program and active collaborations with whip
+performers and martial artists worldwide. Serious creators:
+info@kirinwhip.com.
 
 **Q: Can I visit the workshop?**
-A: The workshop is in Dengfeng, Henan — if you're making a Shaolin pilgrimage
-and want to see where the whips are made, reach out through the site first.
+A: It's in Dengfeng, Henan. If you're making a Shaolin pilgrimage and want
+to see where the whips are made, reach out first to arrange it.
 
 **Q: Is there a community?**
-A: The Kirin Whip Facebook page has a community of 70,000+ followers, and the
-mailing list ("The Kirin Whip Circle") shares training content and news —
-sign-up is on the website.
+A: Facebook page with 70,000+ followers, YouTube (@KirinWhip), Instagram
+and TikTok (@kirinwhip), plus "The Kirin Whip Circle" mailing list —
+sign-up on the website.
 
 ## Contact
 
-All customer service goes through the official site's contact channels:
-https://kirinwhip.com — email and social links are in the site footer.
-Support is provided in English.
+**info@kirinwhip.com** — every email is answered personally by Laochang or
+a member of the workshop, usually within 24 hours. No call centers, no
+scripts.

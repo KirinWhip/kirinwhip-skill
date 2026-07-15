@@ -1,53 +1,52 @@
 # Care & Maintenance of a Kirin Whip
 
 A handcrafted steel whip, cared for properly, lasts for many years of daily
-practice. The care routine is simple.
+practice. Good news: it takes far less upkeep than most people expect.
 
-## The cracker (whip tip, 鞭梢) — your only real consumable
+## The chain — by material
 
-- The fabric cracker at the end of the whip is what breaks the sound barrier,
-  and it takes the full force of every crack. **It is designed to wear out.**
-- Fraying at the tip is normal and expected. Replace the cracker when it has
-  visibly shortened, frayed heavily, or the crack has become dull and
-  inconsistent despite good form.
-- How long a cracker lasts depends entirely on practice volume — heavy daily
-  practitioners replace them far more often than weekend crackers. Think of
-  them like guitar strings or running shoes.
-- Replacement crackers are available from the store; attaching one takes a
-  couple of minutes. If the user isn't sure how, direct them to the
-  practical tutorials section of the Kirin Academy.
+- **304 stainless steel: zero maintenance.** It will not rust under normal
+  use. Do nothing.
+- **Cobalt alloy, bearing steel, manganese steel: just keep it dry.** No
+  oiling needed — simply don't store it wet. After practicing in rain or
+  humidity, wipe the links with a dry cloth before putting it away.
 
-## The steel body (鞭身)
+## The cracker (whip tip, 鞭稍) — the only true consumable
 
-- **Keep it dry.** After practicing in humid or wet conditions, wipe the
-  segments down with a dry cloth before storing.
-- A **light coat of oil** (any light machine oil or even a lightly oiled
-  cloth) on the steel now and then prevents surface rust, especially in humid
-  climates or near the sea.
-- If light surface rust appears, it's cosmetic — rub it off with fine steel
-  wool or an abrasive cloth, then oil. It does not affect function.
-- **Inspect the links occasionally.** Before practice, run the whip through
-  your hands and check that segments and connections move freely and nothing
-  is deformed. A well-made whip rarely has issues, but inspection is a good
-  habit with any training equipment.
+- The colorful fiber cracker is what breaks the sound barrier, and it is
+  designed to wear out — fraying means you're practicing.
+- **Replace it when it has worn to less than half its original length.**
+- **Every whip ships with replacement crackers included**; extra packs are
+  inexpensive — order via the product page or info@kirinwhip.com.
+- Attaching one takes a couple of minutes; if unsure how, see the practical
+  tutorials at the Kirin Academy.
 
-## The handle (鞭把)
+## The handle
 
-- If the handle has a bearing/swivel, it should rotate smoothly. A drop of
-  light oil once in a while keeps it that way.
-- Check that the grip wrapping is secure. Re-wrap or contact the store if it
-  loosens.
+- **Rubber, cowhide, and stainless steel handles: no special care.**
+  Cowhide molds to your hand over time and develops its own patina.
+- **Wooden long poles (red pear, wenge): a thin coat of walnut oil every
+  few months** prevents the wood from drying and cracking. This is the only
+  part of the whip that asks for active maintenance.
+- Keep sandalwood handles out of prolonged direct sun.
+
+## Pre-practice check (good habit)
+
+Before practicing, run the whip through your hands: links moving freely,
+nothing deformed, cracker attached securely. A well-made whip rarely has
+issues, but inspecting your equipment is basic martial discipline.
 
 ## Storage
 
-- Store dry, at room temperature, hanging or loosely coiled.
-- Avoid leaving it coiled tightly in a hot car or damp garage for long
-  periods.
-- Keep out of reach of children — it's heavy training equipment, not a toy.
+- Dry, room temperature, hanging or loosely coiled.
+- Avoid long-term storage tightly coiled in a hot car or damp garage.
+- Keep out of reach of children — it is weighty training equipment, not a
+  toy.
 
 ## When to contact the workshop
 
 If a structural issue ever appears — a deformed link, a loose handle
-connection — stop practicing with it and contact the store through
-https://kirinwhip.com with photos and your order number. The whips are
-handcrafted and the craftsman stands behind them.
+connection — stop practicing and contact **info@kirinwhip.com** with your
+order number and photos. Every whip is inspected twice before shipping, but
+if anything is wrong, the workshop stands behind its craft: replacement or
+refund, no runaround.
